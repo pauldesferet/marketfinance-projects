@@ -7,7 +7,6 @@ For other projects, please see other repositories (if public)
 to contact me: paul.desferet@edu.escp.eu
 or linkedin: https://www.linkedin.com/in/paul-desferet/
 
-you can also visit my website via: https://shared2.vercel.app/
 ---
 
 ## Projects
