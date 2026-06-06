@@ -1,5 +1,5 @@
 # Market Finance
-**Paul Desferet · ESCP Business School · [LinkedIn](https://www.linkedin.com/)**
+**Paul Desferet - ESCP Business School
 
 This repository has been created to show a sample of my Python and VBA projects concerning Market Finance. 
 For other projects (poker, kaggle, chess), please see other repositories (if public)
