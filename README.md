@@ -36,12 +36,29 @@ buy-and-hold with Sharpe ratio, annualised return, volatility, and max drawdown.
 
 ---
 
+### [05 · Options Pricing — OOP Framework](05_options_pricing_oop/options_pricing_oop.ipynb)
+Builds an object-oriented options pricing library from scratch: `Option` abstract base class,
+`EuropeanOption` (Black-Scholes + all 5 Greeks), `AmericanOption` (CRR binomial tree, 500 steps),
+and `OptionPortfolio` for multi-leg strategies. Covers Greeks surfaces (3D), early exercise premium,
+straddle/strangle/collar payoff diagrams, and a Newton-Raphson implied volatility solver.
+
+**Stack:** `numpy` `scipy.stats` `matplotlib` (Python OOP — `ABC`, `abstractmethod`, properties)
+
+---
+
+### [06 · FX Analysis & Carry Trade Strategy](06_fx_carry_trade/fx_carry_trade.ipynb)
+Analyses 6 major FX pairs (EUR/USD, USD/JPY, GBP/USD, AUD/USD, USD/CHF, NZD/USD) and implements
+a systematic carry trade strategy based on central bank rate differentials. Reports Sharpe, max
+drawdown, Calmar ratio, and rolling 90-day correlation with S&P 500 as a risk-on/risk-off proxy.
+
+**Stack:** `numpy` `pandas` `matplotlib` `yfinance`
+
+---
+
 ## Upcoming Projects
 | # | Topic |
 |---|-------|
 | 04 | Volatility Analysis — rolling vol, GARCH(1,1), implied vol skew |
-| 05 | Options Pricing OOP — Black-Scholes class, Greeks surface, binomial tree |
-| 06 | FX & Carry Trade Analysis — rate differentials, drawdown, Sharpe |
 
 ---
 
