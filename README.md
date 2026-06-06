@@ -43,13 +43,3 @@ Econometric event study analyzing the impact of Xiaomi's placement on the US "Co
 - Volatility models: ARMA, EWMA (λ=0.94), GARCH(1,1)
 - Data sourced automatically via `yfinance`
 
----
-
-## Setup
-
-```bash
-pip install yfinance numpy pandas scipy matplotlib
-jupyter notebook
-```
-
-Python 3.10+ recommended.
