@@ -33,6 +33,18 @@ you can also visit my website via: https://shared2.vercel.app/
 
 ---
 
+### [Project 06: Xiaomi Event Study — Trump Blacklist (2021)](06_xiaomi_event_study/)
+
+Econometric event study analyzing the impact of Xiaomi's placement on the US "Communist Chinese Military Companies" list (January 14, 2021) on its stock returns.
+
+- Event study with dummy variable & Cumulative Abnormal Return (CAR)
+- OLS regressions: Xiaomi ~ HSI, BYD, CSI300
+- Diagnostic tests: White, Durbin-Watson, Jarque-Bera, VIF, Huber-White HAC
+- Volatility models: ARMA, EWMA (λ=0.94), GARCH(1,1)
+- Data sourced automatically via `yfinance`
+
+---
+
 ## Setup
 
 ```bash
