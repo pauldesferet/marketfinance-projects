@@ -33,10 +33,14 @@ you can also visit my website via: https://shared2.vercel.app/
 
 ---
 
+### [Project 06: CAPM & Fama-French — CAC 40](06_capm_factor_model/capm_factor_model.ipynb)
+
+---
+
 ## Setup
 
 ```bash
-pip install yfinance numpy pandas scipy matplotlib
+pip install yfinance numpy pandas scipy matplotlib seaborn statsmodels pandas-datareader
 jupyter notebook
 ```
 
