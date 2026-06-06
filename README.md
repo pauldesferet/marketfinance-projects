@@ -38,3 +38,9 @@ you can also visit my website via: https://shared2.vercel.app/
 
 ### [Project 07: CAPM & Fama-French — CAC 40]
 
+---
+
+### [Project 08: CAC 40 Portfolio Management — CorpFin ESCP]
+
+Excel workbook (.xlsm) with full Markowitz optimisation (Solver), CAPM analysis, and automated Yahoo Finance data pipeline.  
+12 CAC 40 stocks · 191 monthly observations (Aug 2010 – Jun 2026) · Efficient Frontier · Tangency Portfolio · β / α / Sharpe.
